@@ -1,0 +1,124 @@
+{
+  "filtered_data": [
+    {
+      "name": "Антарес 6202",
+      "constellation": "Рак",
+      "spectral-class": "W8Q",
+      "radius": 395030848,
+      "rotation": "489.8 days",
+      "age": 3.05,
+      "distance": 3799644.41,
+      "absolute-magnitude": "6.61 million km"
+    },
+    {
+      "name": "Акрукс 8659",
+      "constellation": "Рак",
+      "spectral-class": "S4O",
+      "radius": 344528057,
+      "rotation": "851.14 days",
+      "age": 2.86,
+      "distance": 8552707.85,
+      "absolute-magnitude": "5.28 million km"
+    },
+    {
+      "name": "Бетельгейзе 1965",
+      "constellation": "Рак",
+      "spectral-class": "O7C",
+      "radius": 423452693,
+      "rotation": "844.88 days",
+      "age": 3.47,
+      "distance": 2844940.09,
+      "absolute-magnitude": "7.55 million km"
+    },
+    {
+      "name": "Вега 6734",
+      "constellation": "Рак",
+      "spectral-class": "R9W",
+      "radius": 368063438,
+      "rotation": "562.35 days",
+      "age": 3.5,
+      "distance": 4374504.14,
+      "absolute-magnitude": "8.16 million km"
+    },
+    {
+      "name": "Акрукс 6397",
+      "constellation": "Рак",
+      "spectral-class": "N1P",
+      "radius": 734673165,
+      "rotation": "691.87 days",
+      "age": 0.84,
+      "distance": 4023873.5,
+      "absolute-magnitude": "5.72 million km"
+    },
+    {
+      "name": "Бетельгейзе 7582",
+      "constellation": "Рак",
+      "spectral-class": "D5T",
+      "radius": 85990701,
+      "rotation": "169.11 days",
+      "age": 4.1,
+      "distance": 9073957.68,
+      "absolute-magnitude": "1.7 million km"
+    },
+    {
+      "name": "Альфа Центавра 8806",
+      "constellation": "Рак",
+      "spectral-class": "J8B",
+      "radius": 658820869,
+      "rotation": "594.85 days",
+      "age": 0.48,
+      "distance": 6189665.26,
+      "absolute-magnitude": "9.91 million km"
+    },
+    {
+      "name": "Фомалхаут 4362",
+      "constellation": "Рак",
+      "spectral-class": "X8G",
+      "radius": 255762749,
+      "rotation": "523.88 days",
+      "age": 4.19,
+      "distance": 3332032.95,
+      "absolute-magnitude": "4.15 million km"
+    },
+    {
+      "name": "Хадар 1954",
+      "constellation": "Рак",
+      "spectral-class": "B2I",
+      "radius": 10557481,
+      "rotation": "790.68 days",
+      "age": 4.19,
+      "distance": 9806733.82,
+      "absolute-magnitude": "5.72 million km"
+    },
+    {
+      "name": "Акрукс 9031",
+      "constellation": "Рак",
+      "spectral-class": "Q3D",
+      "radius": 3812176,
+      "rotation": "257.8 days",
+      "age": 2.34,
+      "distance": 1423061.95,
+      "absolute-magnitude": "9.5 million km"
+    },
+    {
+      "name": "Хадар 7372",
+      "constellation": "Рак",
+      "spectral-class": "I8Y",
+      "radius": 76287568,
+      "rotation": "867.79 days",
+      "age": 2.75,
+      "distance": 1265999.6,
+      "absolute-magnitude": "3.81 million km"
+    },
+    {
+      "name": "Антарес 7275",
+      "constellation": "Рак",
+      "spectral-class": "P3X",
+      "radius": 683440739,
+      "rotation": "340.38 days",
+      "age": 1.13,
+      "distance": 9363898.47,
+      "absolute-magnitude": "2.3 million km"
+    }
+  ]
+}
