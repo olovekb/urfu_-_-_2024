@@ -1,0 +1,30 @@
+[
+    {
+        "genre": "Sci-Fi",
+        "count": 3
+    },
+    {
+        "genre": "Drama",
+        "count": 3
+    },
+    {
+        "genre": "Crime",
+        "count": 3
+    },
+    {
+        "genre": "Action",
+        "count": 2
+    },
+    {
+        "genre": "Thriller",
+        "count": 2
+    },
+    {
+        "genre": "Biography",
+        "count": 1
+    },
+    {
+        "genre": "Fantasy",
+        "count": 1
+    }
+]

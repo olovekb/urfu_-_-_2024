@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "year": 2010,
+        "genre": "Sci-Fi",
+        "director": "Christopher Nolan",
+        "rating": 8.8,
+        "actor": "Leonardo DiCaprio",
+        "age": 45,
+        "city": "Los Angeles"
+    },
+    {
+        "id": 3,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": "Action",
+        "director": "Christopher Nolan",
+        "rating": 9.0,
+        "actor": "Christian Bale",
+        "age": 46,
+        "city": "London"
+    },
+    {
+        "id": 6,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "genre": "Fantasy",
+        "director": "Peter Jackson",
+        "rating": 8.9,
+        "actor": "Elijah Wood",
+        "age": 40,
+        "city": "Austin"
+    },
+    {
+        "id": 13,
+        "title": "The Departed",
+        "year": 2006,
+        "genre": "Crime",
+        "director": "Martin Scorsese",
+        "rating": 8.5,
+        "actor": "Leonardo DiCaprio",
+        "age": 45,
+        "city": "Los Angeles"
+    },
+    {
+        "id": 14,
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": "Sci-Fi",
+        "director": "Christopher Nolan",
+        "rating": 8.6,
+        "actor": "Matthew McConaughey",
+        "age": 53,
+        "city": "Austin"
+    },
+    {
+        "id": 15,
+        "title": "Parasite",
+        "year": 2019,
+        "genre": "Thriller",
+        "director": "Bong Joon Ho",
+        "rating": 8.6,
+        "actor": "Song Kang-ho",
+        "age": 55,
+        "city": "Seoul"
+    }
+]

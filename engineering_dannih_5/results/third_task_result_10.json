@@ -1,0 +1,30 @@
+[
+    {
+        "genre": "Sci-Fi",
+        "max_rating": 8.8
+    },
+    {
+        "genre": "Action",
+        "max_rating": 9.0
+    },
+    {
+        "genre": "Drama",
+        "max_rating": 9.3
+    },
+    {
+        "genre": "Biography",
+        "max_rating": 9.0
+    },
+    {
+        "genre": "Thriller",
+        "max_rating": 8.6
+    },
+    {
+        "genre": "Crime",
+        "max_rating": 9.2
+    },
+    {
+        "genre": "Fantasy",
+        "max_rating": 8.9
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Минск",
+        "job": "IT-специалист",
+        "min_salary": 196142,
+        "avg_salary": 196142.0,
+        "max_salary": 196142
+    },
+    {
+        "city": "Минск",
+        "job": "Программист",
+        "min_salary": 40036,
+        "avg_salary": 40036.0,
+        "max_salary": 40036
+    },
+    {
+        "city": "Санкт-Петербург",
+        "job": "Инженер",
+        "min_salary": 57100,
+        "avg_salary": 89847.0,
+        "max_salary": 122594
+    },
+    {
+        "city": "Минск",
+        "job": "Инженер",
+        "min_salary": 135934,
+        "avg_salary": 135934.0,
+        "max_salary": 135934
+    }
+]

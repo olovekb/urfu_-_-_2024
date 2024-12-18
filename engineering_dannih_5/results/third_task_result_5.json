@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "year": 2010,
+        "genre": "Sci-Fi",
+        "director": "Christopher Nolan",
+        "rating": 8.8,
+        "actor": "Leonardo DiCaprio",
+        "age": 45,
+        "city": "Los Angeles"
+    },
+    {
+        "id": 13,
+        "title": "The Departed",
+        "year": 2006,
+        "genre": "Crime",
+        "director": "Martin Scorsese",
+        "rating": 8.5,
+        "actor": "Leonardo DiCaprio",
+        "age": 45,
+        "city": "Los Angeles"
+    }
+]

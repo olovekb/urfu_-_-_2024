@@ -1,0 +1,98 @@
+[
+    {
+        "job": "Оператор call-центра",
+        "min_salary": 20211,
+        "avg_salary": 111315.16304347826,
+        "max_salary": 198914
+    },
+    {
+        "job": "Программист",
+        "min_salary": 20934,
+        "avg_salary": 110253.3552631579,
+        "max_salary": 197542
+    },
+    {
+        "job": "Бухгалтер",
+        "min_salary": 22059,
+        "avg_salary": 112502.80645161291,
+        "max_salary": 199769
+    },
+    {
+        "job": "Инженер",
+        "min_salary": 25703,
+        "avg_salary": 111086.15,
+        "max_salary": 198596
+    },
+    {
+        "job": "Врач",
+        "min_salary": 21099,
+        "avg_salary": 110953.91891891892,
+        "max_salary": 199125
+    },
+    {
+        "job": "Менеджер",
+        "min_salary": 21284,
+        "avg_salary": 114405.58490566038,
+        "max_salary": 199838
+    },
+    {
+        "job": "Медсестра",
+        "min_salary": 24807,
+        "avg_salary": 101706.1888888889,
+        "max_salary": 199649
+    },
+    {
+        "job": "Архитектор",
+        "min_salary": 21453,
+        "avg_salary": 114360.77142857143,
+        "max_salary": 193599
+    },
+    {
+        "job": "Продавец",
+        "min_salary": 20707,
+        "avg_salary": 109767.27777777778,
+        "max_salary": 198269
+    },
+    {
+        "job": "IT-специалист",
+        "min_salary": 20355,
+        "avg_salary": 106284.09574468085,
+        "max_salary": 196142
+    },
+    {
+        "job": "Водитель",
+        "min_salary": 22648,
+        "avg_salary": 113829.25531914894,
+        "max_salary": 199239
+    },
+    {
+        "job": "Строитель",
+        "min_salary": 21733,
+        "avg_salary": 109293.71428571429,
+        "max_salary": 194184
+    },
+    {
+        "job": "Повар",
+        "min_salary": 21169,
+        "avg_salary": 109748.08974358975,
+        "max_salary": 198164
+    },
+    {
+        "job": "Психолог",
+        "min_salary": 20010,
+        "avg_salary": 121238.58227848102,
+        "max_salary": 198639
+    },
+    {
+        "job": "Учитель",
+        "min_salary": 20000,
+        "avg_salary": 112311.3137254902,
+        "max_salary": 197657
+    },
+    {
+        "job": "Косметолог",
+        "min_salary": 25775,
+        "avg_salary": 107703.63855421687,
+        "max_salary": 199484
+    }
+]

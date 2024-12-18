@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "year": 2010,
+        "genre": "Sci-Fi",
+        "director": "Christopher Nolan",
+        "rating": 8.8,
+        "actor": "Leonardo DiCaprio",
+        "age": 45,
+        "city": "Los Angeles"
+    },
+    {
+        "id": 3,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": "Action",
+        "director": "Christopher Nolan",
+        "rating": 9.0,
+        "actor": "Christian Bale",
+        "age": 46,
+        "city": "London"
+    },
+    {
+        "id": 14,
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": "Sci-Fi",
+        "director": "Christopher Nolan",
+        "rating": 8.6,
+        "actor": "Matthew McConaughey",
+        "age": 53,
+        "city": "Austin"
+    }
+]

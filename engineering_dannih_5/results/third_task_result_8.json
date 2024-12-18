@@ -1,0 +1,54 @@
+[
+    {
+        "director": "Frank Darabont",
+        "average_rating": 9.3
+    },
+    {
+        "director": "Jonathan Demme",
+        "average_rating": 8.6
+    },
+    {
+        "director": "Steven Spielberg",
+        "average_rating": 9.0
+    },
+    {
+        "director": "The Wachowskis",
+        "average_rating": 8.7
+    },
+    {
+        "director": "Christopher Nolan",
+        "average_rating": 8.799999999999999
+    },
+    {
+        "director": "Francis Ford Coppola",
+        "average_rating": 9.2
+    },
+    {
+        "director": "Robert Zemeckis",
+        "average_rating": 8.8
+    },
+    {
+        "director": "David Fincher",
+        "average_rating": 8.8
+    },
+    {
+        "director": "Ridley Scott",
+        "average_rating": 8.5
+    },
+    {
+        "director": "Martin Scorsese",
+        "average_rating": 8.5
+    },
+    {
+        "director": "Bong Joon Ho",
+        "average_rating": 8.6
+    },
+    {
+        "director": "Peter Jackson",
+        "average_rating": 8.9
+    },
+    {
+        "director": "Quentin Tarantino",
+        "average_rating": 8.9
+    }
+]

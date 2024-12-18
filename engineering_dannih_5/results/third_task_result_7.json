@@ -1,0 +1,54 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "average_rating": 9.3
+    },
+    {
+        "title": "The Godfather",
+        "average_rating": 9.2
+    },
+    {
+        "title": "The Dark Knight",
+        "average_rating": 9.0
+    },
+    {
+        "title": "Schindler's List",
+        "average_rating": 9.0
+    },
+    {
+        "title": "Pulp Fiction",
+        "average_rating": 8.9
+    },
+    {
+        "title": "Fight Club",
+        "average_rating": 8.8
+    },
+    {
+        "title": "Forrest Gump",
+        "average_rating": 8.8
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "average_rating": 8.75
+    },
+    {
+        "title": "The Matrix",
+        "average_rating": 8.7
+    },
+    {
+        "title": "Inception",
+        "average_rating": 8.65
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "average_rating": 8.6
+    },
+    {
+        "title": "Parasite",
+        "average_rating": 8.6
+    },
+    {
+        "title": "Gladiator",
+        "average_rating": 8.5
+    }
+]
