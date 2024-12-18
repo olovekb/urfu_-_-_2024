@@ -1,0 +1,386 @@
+[
+    {
+        "id": 150,
+        "artist": "NSG",
+        "song": "Options",
+        "year": 2020,
+        "genre": "World/Traditional, hip hop",
+        "popularity": 57
+    },
+    {
+        "id": 350,
+        "artist": "t.A.T.u.",
+        "song": "All The Things She Said",
+        "year": 2020,
+        "genre": "pop",
+        "popularity": 39
+    },
+    {
+        "id": 672,
+        "artist": "Will Smith",
+        "song": "Switch",
+        "year": 2020,
+        "genre": "hip hop, pop",
+        "popularity": 34
+    },
+    {
+        "id": 5,
+        "artist": "Ariana Grande",
+        "song": "7 rings",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 83
+    },
+    {
+        "id": 54,
+        "artist": "Ashley O",
+        "song": "On A Roll",
+        "year": 2019,
+        "genre": "set()",
+        "popularity": 57
+    },
+    {
+        "id": 70,
+        "artist": "Mustard",
+        "song": "Pure Water (with Migos)",
+        "year": 2019,
+        "genre": "hip hop, pop",
+        "popularity": 75
+    },
+    {
+        "id": 135,
+        "artist": "Sech",
+        "song": "Otro Trago",
+        "year": 2019,
+        "genre": "latin",
+        "popularity": 71
+    },
+    {
+        "id": 149,
+        "artist": "J. Cole",
+        "song": "MIDDLE CHILD",
+        "year": 2019,
+        "genre": "hip hop",
+        "popularity": 80
+    },
+    {
+        "id": 153,
+        "artist": "Saweetie",
+        "song": "My Type",
+        "year": 2019,
+        "genre": "hip hop, pop, R&B",
+        "popularity": 71
+    },
+    {
+        "id": 163,
+        "artist": "Wiley",
+        "song": "Boasty (feat. Idris Elba)",
+        "year": 2019,
+        "genre": "hip hop, Dance/Electronic",
+        "popularity": 64
+    },
+    {
+        "id": 196,
+        "artist": "Liberty X",
+        "song": "Just A Little",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 43
+    },
+    {
+        "id": 223,
+        "artist": "Hinder",
+        "song": "Better Than Me",
+        "year": 2019,
+        "genre": "pop, rock, metal",
+        "popularity": 30
+    },
+    {
+        "id": 299,
+        "artist": "Ava Max",
+        "song": "So Am I",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 4
+    },
+    {
+        "id": 306,
+        "artist": "Ed Sheeran",
+        "song": "Take Me Back to London (feat. Stormzy)",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 66
+    },
+    {
+        "id": 326,
+        "artist": "Daddy Yankee",
+        "song": "Con Calma",
+        "year": 2019,
+        "genre": "latin",
+        "popularity": 79
+    },
+    {
+        "id": 338,
+        "artist": "Tones And I",
+        "song": "Dance Monkey",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 78
+    },
+    {
+        "id": 375,
+        "artist": "Blanco Brown",
+        "song": "The Git Up",
+        "year": 2019,
+        "genre": "hip hop, country",
+        "popularity": 69
+    },
+    {
+        "id": 376,
+        "artist": "Camila Cabello",
+        "song": "Liar",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 65
+    },
+    {
+        "id": 380,
+        "artist": "Sam Smith",
+        "song": "Dancing With A Stranger (with Normani)",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 75
+    },
+    {
+        "id": 479,
+        "artist": "Ed Sheeran",
+        "song": "Antisocial (with Travis Scott)",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 63
+    },
+    {
+        "id": 498,
+        "artist": "Doja Cat",
+        "song": "Juicy",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 57
+    },
+    {
+        "id": 580,
+        "artist": "DaBaby",
+        "song": "Suge",
+        "year": 2019,
+        "genre": "hip hop",
+        "popularity": 72
+    },
+    {
+        "id": 594,
+        "artist": "Billie Eilish",
+        "song": "bury a friend",
+        "year": 2019,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 75
+    },
+    {
+        "id": 614,
+        "artist": "Avicii",
+        "song": "SOS (feat. Aloe Blacc)",
+        "year": 2019,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 71
+    },
+    {
+        "id": 646,
+        "artist": "Billie Eilish",
+        "song": "bad guy",
+        "year": 2019,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 83
+    },
+    {
+        "id": 648,
+        "artist": "Hinder",
+        "song": "Lips Of An Angel",
+        "year": 2019,
+        "genre": "pop, rock, metal",
+        "popularity": 35
+    },
+    {
+        "id": 651,
+        "artist": "Mabel",
+        "song": "Don't Call Me Up",
+        "year": 2019,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 77
+    },
+    {
+        "id": 680,
+        "artist": "AJ Tracey",
+        "song": "Ladbroke Grove",
+        "year": 2019,
+        "genre": "hip hop, Dance/Electronic",
+        "popularity": 69
+    },
+    {
+        "id": 702,
+        "artist": "Sam Feldt",
+        "song": "Post Malone (feat. RANI)",
+        "year": 2019,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 69
+    },
+    {
+        "id": 733,
+        "artist": "Tyler, The Creator",
+        "song": "EARFQUAKE",
+        "year": 2019,
+        "genre": "hip hop",
+        "popularity": 80
+    },
+    {
+        "id": 738,
+        "artist": "Dave",
+        "song": "Location (feat. Burna Boy)",
+        "year": 2019,
+        "genre": "hip hop",
+        "popularity": 78
+    },
+    {
+        "id": 764,
+        "artist": "Lil Tecca",
+        "song": "Ransom",
+        "year": 2019,
+        "genre": "hip hop",
+        "popularity": 78
+    },
+    {
+        "id": 768,
+        "artist": "Lauv",
+        "song": "i'm so tired...",
+        "year": 2019,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 2
+    },
+    {
+        "id": 819,
+        "artist": "Sam Smith",
+        "song": "How Do You Sleep?",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 73
+    },
+    {
+        "id": 822,
+        "artist": "Chris Brown",
+        "song": "Beautiful People",
+        "year": 2019,
+        "genre": "hip hop, pop, R&B",
+        "popularity": 53
+    },
+    {
+        "id": 831,
+        "artist": "Gesaffelstein",
+        "song": "Lost in the Fire (feat. The Weeknd)",
+        "year": 2019,
+        "genre": "Dance/Electronic",
+        "popularity": 84
+    },
+    {
+        "id": 860,
+        "artist": "MEDUZA",
+        "song": "Piece Of Your Heart",
+        "year": 2019,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 75
+    },
+    {
+        "id": 894,
+        "artist": "Taylor Swift",
+        "song": "Cruel Summer",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 78
+    },
+    {
+        "id": 904,
+        "artist": "Jonas Brothers",
+        "song": "Sucker",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 79
+    },
+    {
+        "id": 906,
+        "artist": "Post Malone",
+        "song": "Wow.",
+        "year": 2019,
+        "genre": "hip hop",
+        "popularity": 79
+    },
+    {
+        "id": 944,
+        "artist": "NLE Choppa",
+        "song": "Shotta Flow (feat. Blueface) [Remix]",
+        "year": 2019,
+        "genre": "hip hop",
+        "popularity": 0
+    },
+    {
+        "id": 964,
+        "artist": "Bad Bunny",
+        "song": "Callaita",
+        "year": 2019,
+        "genre": "latin",
+        "popularity": 81
+    },
+    {
+        "id": 1016,
+        "artist": "Cardi B",
+        "song": "Please Me",
+        "year": 2019,
+        "genre": "hip hop, pop",
+        "popularity": 73
+    },
+    {
+        "id": 1028,
+        "artist": "Joel Corry",
+        "song": "Sorry",
+        "year": 2019,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 63
+    },
+    {
+        "id": 1032,
+        "artist": "Russ Millions",
+        "song": "Keisha & Becky - Remix",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 69
+    },
+    {
+        "id": 1034,
+        "artist": "Anuel AA",
+        "song": "China",
+        "year": 2019,
+        "genre": "latin",
+        "popularity": 76
+    },
+    {
+        "id": 1104,
+        "artist": "Ariana Grande",
+        "song": "break up with your girlfriend, i'm bored",
+        "year": 2019,
+        "genre": "pop",
+        "popularity": 76
+    },
+    {
+        "id": 1111,
+        "artist": "Lil Nas X",
+        "song": "Old Town Road",
+        "year": 2019,
+        "genre": "hip hop, pop",
+        "popularity": 76
+    }
+]
