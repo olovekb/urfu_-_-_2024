@@ -1,0 +1,86 @@
+[
+    {
+        "column": "description",
+        "memory_mb": 312.42920875549316,
+        "memory_share_percent": 32.14923130054128,
+        "dtype": "category"
+    },
+    {
+        "column": "stars_name",
+        "memory_mb": 152.83888149261475,
+        "memory_share_percent": 15.727250894353832,
+        "dtype": "category"
+    },
+    {
+        "column": "id",
+        "memory_mb": 144.28052043914795,
+        "memory_share_percent": 14.846588263105495,
+        "dtype": "object"
+    },
+    {
+        "column": "stars_id",
+        "memory_mb": 127.15231895446777,
+        "memory_share_percent": 13.084081762875543,
+        "dtype": "category"
+    },
+    {
+        "column": "name",
+        "memory_mb": 78.26692867279053,
+        "memory_share_percent": 8.053733526091992,
+        "dtype": "category"
+    },
+    {
+        "column": "directors_id",
+        "memory_mb": 53.469271659851074,
+        "memory_share_percent": 5.502033529167607,
+        "dtype": "category"
+    },
+    {
+        "column": "directors_name",
+        "memory_mb": 45.70966053009033,
+        "memory_share_percent": 4.70356294440175,
+        "dtype": "category"
+    },
+    {
+        "column": "gross_income",
+        "memory_mb": 19.76736831665039,
+        "memory_share_percent": 2.034079011838906,
+        "dtype": "float64"
+    },
+    {
+        "column": "rating",
+        "memory_mb": 9.883747100830078,
+        "memory_share_percent": 1.0170459827567377,
+        "dtype": "float32"
+    },
+    {
+        "column": "votes",
+        "memory_mb": 9.883747100830078,
+        "memory_share_percent": 1.0170459827567377,
+        "dtype": "float32"
+    },
+    {
+        "column": "year",
+        "memory_mb": 5.355908393859863,
+        "memory_share_percent": 0.551127528903566,
+        "dtype": "category"
+    },
+    {
+        "column": "genre",
+        "memory_mb": 5.303426742553711,
+        "memory_share_percent": 0.5457271223487605,
+        "dtype": "category"
+    },
+    {
+        "column": "duration",
+        "memory_mb": 4.995732307434082,
+        "memory_share_percent": 0.5140651032822529,
+        "dtype": "category"
+    },
+    {
+        "column": "certificate",
+        "memory_mb": 2.47418212890625,
+        "memory_share_percent": 0.2545954453449421,
+        "dtype": "category"
+    }
+]

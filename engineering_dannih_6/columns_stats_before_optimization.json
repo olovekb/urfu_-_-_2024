@@ -1,0 +1,86 @@
+[
+    {
+        "column": "description",
+        "memory_mb": 302.47201442718506,
+        "memory_share_percent": 14.939291900569906,
+        "dtype": "object"
+    },
+    {
+        "column": "stars_name",
+        "memory_mb": 218.49216747283936,
+        "memory_share_percent": 10.791471978148024,
+        "dtype": "object"
+    },
+    {
+        "column": "stars_id",
+        "memory_mb": 187.94442749023438,
+        "memory_share_percent": 9.282698991770777,
+        "dtype": "object"
+    },
+    {
+        "column": "year",
+        "memory_mb": 185.7370901107788,
+        "memory_share_percent": 9.173677145577255,
+        "dtype": "object"
+    },
+    {
+        "column": "name",
+        "memory_mb": 167.93069171905518,
+        "memory_share_percent": 8.294207407606383,
+        "dtype": "object"
+    },
+    {
+        "column": "genre",
+        "memory_mb": 162.26624393463135,
+        "memory_share_percent": 8.014436602802173,
+        "dtype": "object"
+    },
+    {
+        "column": "directors_name",
+        "memory_mb": 160.19050121307373,
+        "memory_share_percent": 7.91191430338694,
+        "dtype": "object"
+    },
+    {
+        "column": "directors_id",
+        "memory_mb": 152.85294818878174,
+        "memory_share_percent": 7.549507729431992,
+        "dtype": "object"
+    },
+    {
+        "column": "certificate",
+        "memory_mb": 148.9721212387085,
+        "memory_share_percent": 7.357831131739019,
+        "dtype": "object"
+    },
+    {
+        "column": "id",
+        "memory_mb": 144.28052043914795,
+        "memory_share_percent": 7.126109879912415,
+        "dtype": "object"
+    },
+    {
+        "column": "duration",
+        "memory_mb": 134.2351770401001,
+        "memory_share_percent": 6.629963756893269,
+        "dtype": "object"
+    },
+    {
+        "column": "rating",
+        "memory_mb": 19.76736831665039,
+        "memory_share_percent": 0.9763233334091088,
+        "dtype": "float64"
+    },
+    {
+        "column": "votes",
+        "memory_mb": 19.76736831665039,
+        "memory_share_percent": 0.9763233334091088,
+        "dtype": "float64"
+    },
+    {
+        "column": "gross_income",
+        "memory_mb": 19.76736831665039,
+        "memory_share_percent": 0.9763233334091088,
+        "dtype": "float64"
+    }
+]
